@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpJkkWksfffaA9dHASLAAy1/17ePJQKq1I2bYZlntdoIzxr2/3PbTlMo0js7Kuy+d/MGLPbYOlYXe78LlWaYgQ==",
+  "success": true,
+  "projectFilePath": "/Users/denis/projects/csharp/tweets/tweets.csproj",
+  "expectedPackageFiles": [
+    "/Users/denis/.nuget/packages/skiasharp/2.80.3/skiasharp.2.80.3.nupkg.sha512",
+    "/Users/denis/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

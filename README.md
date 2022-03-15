@@ -2,4 +2,4 @@
 
 ## Example:
 
-![example image](./1.png)
+![example image](./tweets/1.png)

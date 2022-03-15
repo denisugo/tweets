@@ -1,5 +1,6 @@
 /.vscode
 
 /tweets/bin
+/tweetsTests/bin
 
 /tweets/public
